@@ -1,6 +1,8 @@
-# case_study_2_project_dataanalyst
-Case study on a smart device company
-Scenario
+# REAL-LIFE Case study
+Case study on a smart device company:
+
+Scenario:
+
 Considering myself as one of the data analyst working on the marketing analyst team at Bellabeat, a high-tech manufacturer of health-focused
 products for women. Bellabeat is a successful small company, but they have the potential to become a larger player in the
 global smart device market. Urška Sršen, cofounder and Chief Creative Officer of Bellabeat, believes that analyzing smart
