@@ -1,4 +1,4 @@
-# REAL-LIFE Case study
+# Real-life Case study
 Case study on a smart device company:
 
 Scenario:
